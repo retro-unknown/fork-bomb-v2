@@ -1,0 +1,1 @@
+this is a remake of the forkbomb. this will basically take up all your resources on your computer and freeze your screen. there are 2 versions, the "safe version", which can be removed after a simple forced shutdown. and the "danger version" which will add itself to startup apps, so a shutdown wont stop the virus. enjoy :)
